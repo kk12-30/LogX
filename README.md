@@ -1,7 +1,7 @@
 
 <p align="center">
   <!-- 如果有Logo图片，请替换此处 -->
-  <!-- <img src="docs/logo.png" alt="LogX Logo" width="200"> -->
+  <!-- <img src="https://img.cdn1.vip/i/696f8f004e208_1768918784.webp" alt="LogX Logo" width="200"> -->
   <h1 align="center">LogX</h1>
 </p>
 
