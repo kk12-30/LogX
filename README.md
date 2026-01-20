@@ -1,4 +1,3 @@
-# LogX - 高性能Web日志威胁分析工具
 
 <p align="center">
   <!-- 如果有Logo图片，请替换此处 -->
