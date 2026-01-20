@@ -1,6 +1,6 @@
 
 <p align="center">
-   <img src="https://img.cdn1.vip/i/696f8f004e208_1768918784.webp" alt="LogX Logo" width="200"> 
+   <img src="https://img.cdn1.vip/i/696f9035aca11_1768919093.jpeg" alt="LogX Logo" width="200"> 
   <h1 align="center">LogX</h1>
 </p>
 
