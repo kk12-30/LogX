@@ -7,7 +7,7 @@
 <p align="center">
   <strong>🚀 基于 Go + Wails + Vue 3 的现代化日志分析与威胁检测平台</strong>
 </p>
-
+https://mp.weixin.qq.com/s/D_uT-2rLvlAMZonKF4ljPA
 <p align="center">
   <a href="https://github.com/kk12-30/LogX">
     <img src="https://img.shields.io/github/stars/kk12-30/LogX?style=flat-square" alt="GitHub Stars">
