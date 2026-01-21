@@ -3,7 +3,6 @@
    <img src="https://github.com/kk12-30/LogX/blob/main/appicon.png" alt="LogX Logo" width="200"> 
   <h1 align="center">LogX</h1>
 </p>
-https://mp.weixin.qq.com/s/D_uT-2rLvlAMZonKF4ljPA
 
 <p align="center">
   <strong>🚀 基于 Go + Wails + Vue 3 的现代化日志分析与威胁检测平台</strong>
@@ -28,7 +27,7 @@ https://mp.weixin.qq.com/s/D_uT-2rLvlAMZonKF4ljPA
   <a href="#技术栈">技术栈</a>
 </p>
 
-> **公众号：蓝剑安全** | 关注获取更多安全工具与技术分享
+> **公众号：蓝剑安全** | https://mp.weixin.qq.com/s/D_uT-2rLvlAMZonKF4ljPA
 
 ---
 
