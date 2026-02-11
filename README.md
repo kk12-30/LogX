@@ -3,6 +3,7 @@
    <img src="https://github.com/kk12-30/LogX/blob/main/appicon.png" alt="LogX Logo" width="200"> 
   <h1 align="center">LogX</h1>
 </p>
+## 获取工具源码：https://m-wiki.freebuf.com/clubsPoster?id=410&invite_code=2ebc0444
 
 <p align="center">
   <strong>🚀 基于 Go + Wails + Vue 3 的现代化日志分析与威胁检测平台</strong>
